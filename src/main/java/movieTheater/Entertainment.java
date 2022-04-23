@@ -38,6 +38,7 @@ public class Entertainment {
                }
                break;
             case "REGAL":
+                System.out.println("welcome REGAL");
 
                 break;
             case "EMAGINE":
